@@ -8,6 +8,8 @@ authors = ["Eric You"]
 python = "^3.8"
 fastapi = "^0.68.2"
 uvicorn = "^0.15.0"
+uvloop = "^0.16.0"
+httptools = "^0.3.0"
 
 [tool.poetry.dev-dependencies]
 
